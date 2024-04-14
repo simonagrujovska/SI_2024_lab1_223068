@@ -1,0 +1,44 @@
+
+simon@Simona-Laptop MINGW64 ~/SI_2024_lab1_223068 (master)
+$ git log
+commit 5ef06b3173bb7a3e56b1f24fbe305e046e5eef3b (HEAD -> master, origin/master)
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 17:11:18 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit c95940ec436205127635a397cc741951ccf48293 (origin/bug1, bug1)
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 17:51:08 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit e6dd9284426779b243e4e3c167c74721434fba91
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 17:49:15 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 62e10952dadd31abc38f014b74bf7b490327da3e
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 17:04:45 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 347468fe7fa4660b1f7f6b77aff5ecce42edf123
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 16:59:28 2024 +0200
+
+    Fix errors in SILab1_1 and SILab1_2 classes
+
+commit c85ea477525596558225d37ff1a14529a6bf5c42
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 16:46:13 2024 +0200
+
+    Add starter code
+
+commit 46bda75e9a179fc678338f1b8c3dcfd834523b18
+Author: Simona <simonagrujovska@gmail.com>
+Date:   Sun Apr 14 16:42:39 2024 +0200
+
+    Initial commit
